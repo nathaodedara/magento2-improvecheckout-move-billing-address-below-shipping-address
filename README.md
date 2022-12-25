@@ -1,4 +1,4 @@
-**This extension is no longer available for FREE, it'll be available in Magento Marketplace soon, meanwhile you can contact me at nathaodedara24@yahoo.com and get it for 60$.**
+## This extension is no longer available for FREE, it'll be available in Magento Marketplace soon, meanwhile you can contact me at nathaodedara24@yahoo.com and get it for 60$.
 
 # Magento 2 Extension Improve Checkout Move Billing Address below Shipping Address
 
