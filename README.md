@@ -1,3 +1,5 @@
+**This extension is no longer available for FREE, it'll be available in Magento Marketplace soon, meanwhile you can contact me at nathaodedara24@yahoo.com and get it for 60$.**
+
 # Magento 2 Extension Improve Checkout Move Billing Address below Shipping Address
 
 ![Main Image | Thumbnail | Magento 2](https://github.com/nathaodedara/magento2-improvecheckout-move-billing-address-below-shipping-address/blob/main/screenshots/how-to-move-billing-address-below-shipping-address-magento-2.jpg?raw=true)
