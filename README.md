@@ -1,4 +1,4 @@
-## <ins>This extension is no longer available for FREE, it'll be available in Magento Marketplace soon, meanwhile you can contact me at nathaodedara24@yahoo.com and get it for 60$.</ins>
+## <ins>This extension is no longer available for FREE, you can purchase it from Magento Marketplace [CLICK HERE](https://marketplace.magento.com/ananta-module-improvedcheckout.html "Improved Checkout - Magento Marketplace").
 
 # Magento 2 Extension Improve Checkout Move Billing Address below Shipping Address
 
